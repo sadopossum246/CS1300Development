@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CS1300Development/static/css/main.02926c52.css",
+    "main.js": "/CS1300Development/static/js/main.01d15d0d.js",
+    "static/js/787.775735cd.chunk.js": "/CS1300Development/static/js/787.775735cd.chunk.js",
+    "static/media/Hind-Regular.ttf.eot": "/CS1300Development/static/media/Hind-Regular.ttf.22ca7ab192197794221d.eot",
+    "static/media/HomePlanetBB-Regular.ttf.svg": "/CS1300Development/static/media/HomePlanetBB-Regular.ttf.9cef0aa2d50d53e8427c.svg",
+    "static/media/Hind-Regular.ttf.woff": "/CS1300Development/static/media/Hind-Regular.ttf.539b1f0a2192a4439a14.woff",
+    "static/media/HomePlanetBB-Regular.ttf.eot": "/CS1300Development/static/media/HomePlanetBB-Regular.ttf.afab3249ebf4af9ecbd0.eot",
+    "static/media/Hind-Regular.ttf.svg": "/CS1300Development/static/media/Hind-Regular.ttf.786ab12043802052b960.svg",
+    "static/media/HomePlanetBB-Regular.ttf.woff": "/CS1300Development/static/media/HomePlanetBB-Regular.ttf.09c2a743182f860780fa.woff",
+    "index.html": "/CS1300Development/index.html",
+    "main.02926c52.css.map": "/CS1300Development/static/css/main.02926c52.css.map",
+    "main.01d15d0d.js.map": "/CS1300Development/static/js/main.01d15d0d.js.map",
+    "787.775735cd.chunk.js.map": "/CS1300Development/static/js/787.775735cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02926c52.css",
+    "static/js/main.01d15d0d.js"
+  ]
+}
