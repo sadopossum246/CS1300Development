@@ -1,0 +1,100 @@
+[
+    {
+      "name": "Blue Pearl",
+      "category": "succulent",
+      "price": 7.99,
+      "image": "images/BluePearl.PNG",
+      "key": 0,
+      "season": "year-round"
+    },
+    {
+      "key": 1,
+      "name": "Hellebore",
+      "category": "flowers",
+      "price": 4.99,
+      "image": "images/Hellebore.jpg",
+      "season": "year-round"
+    },
+    {
+      "key": 2,
+      "name": "Hyacinth",
+      "category": "flowers",
+      "price": 5.99,
+      "image": "./images/Hyacinth.PNG",
+      "season": "seasonal"
+    },
+    {
+      "key": 3,
+      "name": "Juniper Bonsai",
+      "category": "trees",
+      "price": 30.99,
+      "image": "images/JuniperBonsai.PNG",
+      "season": "year-round"
+    },
+    {
+      "key": 4,
+      "name": "Lily of the Valley",
+      "category": "flowers",
+      "price": 7.99,
+      "image": "./images/LilyoftheValley.jpg",
+      "season": "seasonal"
+    },
+    {
+      "key": 5,
+      "name": "Oak Tree",
+      "category": "trees",
+      "price": 55.99,
+      "image": "./images/OakTree.jpg",
+      "season": "year-round"
+    },
+    {
+      "key": 6,
+      "name": "Pickle Plant",
+      "category": "succulent",
+      "price": 9.99,
+      "image": "./images/PicklePlant.PNG",
+      "season": "seasonal"
+    },
+    {
+      "key": 7,
+      "name": "Pine Tree",
+      "category": "trees",
+      "price": 68.99,
+      "image": "./images/PineTree.jpg",
+      "season": "year-round"
+      
+    },
+    {
+      "key": 8,
+      "name": "Red Dahlia",
+      "category": "flowers",
+      "price": 4.99,
+      "image": "./images/RedDahlia.PNG",
+      "season": "seasonal"
+    },
+    {
+      "key": 9,
+      "name": "Tippy Pink",
+      "category": "succulent",
+      "price": 6.99,
+      "image": "./images/TippyPink.PNG",
+      "season": "year-round"
+    },
+    {
+      "key": 10,
+      "name": "Weeping Willow",
+      "category": "trees",
+      "price": 75.99,
+      "image": "images/WeepingWillow.jpeg",
+      "season": "seasonal"
+    },
+    {
+      "key": 11,
+      "name": "Window Haworthia",
+      "category": "succulent",
+      "price": 4.99,
+      "image": "./images/WindowHaworthia.PNG",
+      "season": "year-round"
+    }
+  ]
+  

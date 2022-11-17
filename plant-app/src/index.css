@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Hind-Regular';
+  src:url('./fonts/Hind-Regular/Hind-Regular.ttf.woff') format('woff'),
+      url('./fonts/Hind-Regular/Hind-Regular.ttf.svg') format('svg'),
+      url('./fonts/Hind-Regular/Hind-Regular.ttf.eot') format('embedded-opentype'); 
+      
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HomePlanetBB-Regular';
+  src:url('./fonts/HomePlanetBB/HomePlanetBB-Regular.ttf.woff') format('woff'),
+      url('./fonts/HomePlanetBB/HomePlanetBB-Regular.ttf.svg#HomePlanetBB-Regular') format('svg'),
+      url('./fonts/HomePlanetBB/HomePlanetBB-Regular.ttf.eot'),
+      url('./fonts/HomePlanetBB/HomePlanetBB-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+  font-weight: normal;
+  font-style: normal;
+}
